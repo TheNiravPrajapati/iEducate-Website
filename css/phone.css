@@ -1,0 +1,65 @@
+.navbar{
+    flex-direction: column;
+    transition: all 0.7s ease-out;
+    height: 400px;
+}
+.navlist{
+    flex-direction: column;
+}
+.rightnav{
+    text-align: center;
+}
+#search{
+    width:100%;
+}
+.burger{
+    display:block;
+}
+.hnav{
+    height:70px;
+}
+.vclass{
+    opacity: 0;
+}
+.boxmain{
+    flex-direction: column-reverse;
+    max-width: 100%;
+}
+section{
+    flex-direction: column-reverse;
+}
+.paras{
+    padding:0px;
+}
+.textsmall{
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+}
+.textbig{
+    align-items: center;
+    text-align: center;
+    font-size: 23px;
+}
+.buttons{
+    text-align: center;
+}
+.btn{
+    align-items: center;
+    font-size: 12px;
+}
+.left{
+    flex-direction: column-reverse;
+}
+.textcenter{
+    font-size: 30px;
+}
+.contact{
+    width:100%;
+}
+.form{
+    width:300px;
+}
+.text-footer{
+    font-size: 12px;
+}
